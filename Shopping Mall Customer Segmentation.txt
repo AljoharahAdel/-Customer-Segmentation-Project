@@ -22,3 +22,6 @@ We start by visualizing the data to understand the distribution of customers bas
 
 -Results
  The analysis segments customers into different groups based on their age, annual income, and spending score. These segments can be used for targeted marketing strategies, allowing businesses to tailor their offerings to specific customer groups.
+
+
+Author: Aljoharah Adel Alsulami
