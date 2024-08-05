@@ -1,0 +1,24 @@
+Shopping Mall Customer Segmentation Analysis
+This project involves analyzing and segmenting customers based on their demographics and spending behavior using the Shopping Mall Customer Data. The main objective is to identify distinct customer groups to help in targeted marketing strategies.
+
+-Project Overview
+Data Visualization
+We start by visualizing the data to understand the distribution of customers based on age, gender, annual income, and spending score.
+
+-Age Distribution: A histogram showing the distribution of customers' ages.
+
+-Gender Distribution: A bar plot showing the distribution of customers by gender.
+
+-Spending Score vs. Annual Income: A scatter plot showing the relationship between customers' spending scores and annual incomes.
+
+-Data Preparation
+ We select relevant features (Age, Annual Income, Spending Score) and standardize the data to prepare it for clustering. We also check for      and remove any missing or broken values.
+
+-Clustering
+ We use K-Means clustering to segment customers into distinct groups. The number of clusters is determined using the Elbow method and the  Silhouette method.
+
+-Cluster Analysis
+ We analyze the characteristics of each customer segment by calculating the average age, annual income, and spending score for each cluster. This helps in understanding the different customer groups and their behaviors.
+
+-Results
+ The analysis segments customers into different groups based on their age, annual income, and spending score. These segments can be used for targeted marketing strategies, allowing businesses to tailor their offerings to specific customer groups.
